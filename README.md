@@ -1,5 +1,7 @@
 # SpringLift
 
+> ⚠️ **This project is under active development — contributions welcome!** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
+
 **SpringLift** is a GenAI-powered tool designed to modernize legacy Java applications. It scans Java 8/11 projects using Spring Boot 2.x and provides AI-powered suggestions and automated transformations to upgrade them to Java 21 with Spring Boot 3.x.
 
 ## Features
